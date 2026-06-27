@@ -1,0 +1,14 @@
+{
+  "name": "node-express-hello",
+  "version": "1.0.0",
+  "description": "Small Express app returning Hello World with MongoDB cursor pagination",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.3",
+    "mongodb": "^7.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
